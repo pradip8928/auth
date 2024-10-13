@@ -1,0 +1,11 @@
+{
+    "name": "server",
+    "version": "1.0.0",
+    "description": "advance authentication",
+    "main": "auth javascipt",
+    "scripts": {
+        "server": "node index.js"
+    },
+    "author": "",
+    "license": "ISC"
+}
