@@ -4,8 +4,11 @@
     "description": "advance authentication",
     "main": "auth javascipt",
     "scripts": {
-        "server": "node index.js"
+        "dev": "nodemon src/index.js"
     },
     "author": "",
-    "license": "ISC"
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^3.1.7"
+    }
 }
