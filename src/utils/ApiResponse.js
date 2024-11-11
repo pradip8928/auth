@@ -7,6 +7,8 @@ class ApiResponse{
     }
 }
 
+
+export {ApiResponse}
 /* 
 
 Informational responses (100 – 199)
